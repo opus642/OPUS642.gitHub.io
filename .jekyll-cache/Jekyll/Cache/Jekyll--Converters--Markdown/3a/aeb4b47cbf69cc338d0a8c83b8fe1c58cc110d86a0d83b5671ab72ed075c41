@@ -1,0 +1,110 @@
+I"g <h1 id="web应用软件开发实训---第三次作业---git使用">WEB应用软件开发实训 - 第三次作业 - Git使用</h1>
+
+<h2 id="实验报告">实验报告</h2>
+
+<p><a href="https://opus642.github.io/">https://opus642.github.io/</a></p>
+
+<h2 id="一必做部分">一、必做部分</h2>
+<h3 id="一-安装git">（一). 安装Git</h3>
+
+<ul>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB19e2c4c1eeecdb6bbfea2aef031fcd12?method=download&amp;shareKey=eeb203982e188422d787564d2237a768" alt="安装Git" /></li>
+</ul>
+
+<h3 id="二-创建版本库">(二). 创建版本库</h3>
+<ul>
+  <li>创建版本库 <img src="https://note.youdao.com/yws/api/personal/file/WEBabca9af6ec64e9533d7fb0da9c1275e3?method=download&amp;shareKey=f643d67103921fe2e9e27c8ab0d132db" alt="创建版本库" />
+    <h3 id="三-时光机穿梭">(三). 时光机穿梭</h3>
+  </li>
+</ul>
+
+<h4 id="1-版本回退">1. 版本回退</h4>
+<ul>
+  <li>
+    <p>版本回退 <img src="https://note.youdao.com/yws/api/personal/file/WEB46db11a9162295550b1bc5e5a05f0277?method=download&amp;shareKey=cbf560c13063b8097c3610917ce37934" alt="版本回退" /></p>
+  </li>
+  <li>版本控制 <img src="https://note.youdao.com/yws/api/personal/file/WEB5bd8cdde0989e978dfa23cc08c5d699a?method=download&amp;shareKey=59774c0f283ccb33cf6bae4eef8b0a67" alt="版本控制" />
+    <h4 id="2-工作区和暂存区">2. 工作区和暂存区</h4>
+  </li>
+  <li>
+    <p>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB218b7dd077026fae4668c39d96ceb578?method=download&amp;shareKey=7bbb77eaf95b2bf3eceaa36acc8cd184" alt="安装Git" /></p>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBe32ec94cf57914e17518e845c693352f?method=download&amp;shareKey=64ab13a20993551b46d875634df30518" alt="安装Git" />
+    <h4 id="3-管理修改">3. 管理修改</h4>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBa53de3bd337fb1d5368261be37a001ae?method=download&amp;shareKey=d5a7b5360bc299c9d93cc2d885a7edf3" alt="安装Git" />
+    <h4 id="4-撤销修改">4. 撤销修改</h4>
+  </li>
+  <li>
+    <p>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBfd45b35ad98ea0a9b2cbb861b0a278cf?method=download&amp;shareKey=4e2fa2d1a93e961e259f57f7d2441110" alt="安装Git" /></p>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB46f11490dadcc830bdac390cd34f3144?method=download&amp;shareKey=c1f77d3641e98a6aff6ba8a02d2a6112" alt="安装Git" />
+    <h4 id="5-删除文件">5. 删除文件</h4>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBf80f1e1b521eeee79f04a8048e32c47a?method=download&amp;shareKey=f313d965bc8df0d7ce63c7bb20335b65" alt="安装Git" />
+    <h3 id="四-远程仓库">(四). 远程仓库</h3>
+  </li>
+  <li>
+    <p>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB2422d45c94455640f1f15bc7c57e24f5?method=download&amp;shareKey=c463c8f59b23c08a64e432417e3e04f1" alt="安装Git" /></p>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB7f0ee91edfffd1acac87995a41f74220?method=download&amp;shareKey=878cc9f36e4ff1b37f7ad1d7bcfd4b5c" alt="安装Git" />
+    <h4 id="1-添加远程库">1. 添加远程库</h4>
+  </li>
+  <li>
+    <p>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB72cc231e47d3bd914b326dcb5121124e?method=download&amp;shareKey=a89b2502043faa0295358933385a3933" alt="安装Git" /></p>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB090d3b360f2b529192eb50b3b6e78ff8?method=download&amp;shareKey=834f86ca50e24660c2452ab096fabbe3" alt="安装Git" />
+    <h4 id="2-从远程库克隆">2. 从远程库克隆</h4>
+  </li>
+  <li>
+    <p>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB4ae69b14ed7671a48be436de0fda2d2b?method=download&amp;shareKey=dde7637565faa49256f770d30545c70b" alt="安装Git" /></p>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB553a7f72f2a80a706de73c700014286b?method=download&amp;shareKey=5914b0d34c4deb9e244c84b56c239864" alt="安装Git" />
+    <h2 id="二-选做部分">二. 选做部分</h2>
+  </li>
+</ul>
+
+<h3 id="一-分支管理">(一). 分支管理</h3>
+
+<h4 id="1-创建与合并分支">1. 创建与合并分支</h4>
+<ul>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBb98a769813978067aad4818113f0f91c?method=download&amp;shareKey=bdebb764a1e6091548ec0997f2f10e14" alt="安装Git" />
+    <h4 id="2-解决冲突">2. 解决冲突</h4>
+  </li>
+  <li>
+    <p>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBe01925c602f6205b0a2061b4e78cf266?method=download&amp;shareKey=a42dbf4491ffc2afcb6c285328de3103" alt="安装Git" /></p>
+  </li>
+  <li>
+    <p>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBe21e5c0a6abd24d1217c47e215ae416c?method=download&amp;shareKey=c69aef4e6194b078ef337823582ff3c8" alt="安装Git" /></p>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEBbdf0f76d1e7c5d798893e8f3753aef95?method=download&amp;shareKey=6e5400c77cf5c3460f356493cd532889" alt="安装Git" />
+    <h4 id="3-分支管理策略">3. 分支管理策略</h4>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB19e2c4c1eeecdb6bbfea2aef031fcd12?method=download&amp;shareKey=eeb203982e188422d787564d2237a768" alt="安装Git" />
+    <h4 id="4-bug分支">4. Bug分支</h4>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB19e2c4c1eeecdb6bbfea2aef031fcd12?method=download&amp;shareKey=eeb203982e188422d787564d2237a768" alt="安装Git" />
+    <h4 id="5rebase">5.Rebase</h4>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB19e2c4c1eeecdb6bbfea2aef031fcd12?method=download&amp;shareKey=eeb203982e188422d787564d2237a768" alt="安装Git" />
+    <h3 id="二-标签管理">(二). 标签管理</h3>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB19e2c4c1eeecdb6bbfea2aef031fcd12?method=download&amp;shareKey=eeb203982e188422d787564d2237a768" alt="安装Git" />
+    <h4 id="1-创建标签">1. 创建标签</h4>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB19e2c4c1eeecdb6bbfea2aef031fcd12?method=download&amp;shareKey=eeb203982e188422d787564d2237a768" alt="安装Git" />
+    <h4 id="2-操作标签">2. 操作标签</h4>
+  </li>
+  <li>安装Git <img src="https://note.youdao.com/yws/api/personal/file/WEB19e2c4c1eeecdb6bbfea2aef031fcd12?method=download&amp;shareKey=eeb203982e188422d787564d2237a768" alt="安装Git" /></li>
+</ul>
+
+<h2 id="三实验过程">三、实验过程</h2>
+<p>按照jekyll官方文档Step by Step Tutorial执行几次。熟练后仿照其进行自己的网页调试。</p>
+
+<h2 id="四总结">四、总结</h2>
+<p>本次实验过程大体上比较顺利 ，因为主体步骤在jekyll官方文档中已说明的比较清晰，且老师也演示过不止一次。我觉得问题主要出现在工具的使用上，对于vscode也好，各种命令还有Git等的使用上比较陌生，只能边做边从搜索引擎上查询，导致效率很低。好在重复了几次教程后，熟练了很多，虽然仍算不上得心应手，但也进步不少。</p>
+
+<p>虽说大体上还算顺利，但也遇到过几次报错，如工具安装和Git push。有些折磨的是，在自己排查无果后，如果在网上查询某个报错，会发现虽然结果不少，但中文结果少之又少，结果大部分都来源于英语，只能费力阅读。这个过程效率很低，因为在英文网页上无法做到一目十行的粗略排查。又回顾起自己阅读其他课程的论文的经历，只能说这是以英语为母语的人相对于我们这样英语非母语的国家在编程，或者说很多现代科学领域的天生优势。再次认识到了英语的重要性。</p>
+
+<p>实验中老师的一些小技巧的传授令我很有收获感。如分屏工作，Tmux等使用，因为这些技巧在书籍还是网页教程中都不会专门写出，但是却很有用。能提升编程过程中的“幸福感”，提升效率且让自己编写的代码更规范。</p>
+:ET
